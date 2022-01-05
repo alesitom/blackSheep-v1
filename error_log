@@ -1,0 +1,6 @@
+[15-Dec-2020 15:10:39 UTC] PHP Notice:  Undefined variable: conexionBD in /home/u546248284/domains/alemendoza.cf/public_html/utn/PBD/tp1_m1/register.php on line 50
+[15-Dec-2020 15:10:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u546248284/domains/alemendoza.cf/public_html/utn/PBD/tp1_m1/register.php on line 50
+[15-Dec-2020 15:10:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u546248284/domains/alemendoza.cf/public_html/utn/PBD/tp1_m1/register.php on line 51
+[15-Dec-2020 15:10:39 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/u546248284/domains/alemendoza.cf/public_html/utn/PBD/tp1_m1/register.php on line 56
+[15-Dec-2020 15:10:39 UTC] PHP Notice:  Undefined variable: conexionBD in /home/u546248284/domains/alemendoza.cf/public_html/utn/PBD/tp1_m1/register.php on line 57
+[15-Dec-2020 15:10:39 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/u546248284/domains/alemendoza.cf/public_html/utn/PBD/tp1_m1/register.php on line 57
