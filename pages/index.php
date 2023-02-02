@@ -18,6 +18,6 @@
     <li>Sos miembro desde: <?php echo$_SESSION['userStartDate'];?></li>
     </ul>
     </div>
-    </div>
+    </div> <!-- esto es un comentario -->
 </div>
 </section>
