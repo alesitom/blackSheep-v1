@@ -37,4 +37,4 @@ include ('inc/loginError.php');
 </div>
 </div>
 <script src="js/bootstrap-show-password.js"></script>
-</section>
+</section> <!-- esto es un comentario. -->
