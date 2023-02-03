@@ -8,4 +8,4 @@ else
 require "inc/footer.php";
 
 ?>
-<!-- esto es un comentario -->
+<!-- esto es un comentario modificado desde GitHub -->
